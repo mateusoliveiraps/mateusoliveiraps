@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá 👋
 
-<!--
-**mateusoliveiraps/mateusoliveiraps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Seja bem vindo ao meu GitHub. Meu nome é Mateus tenho 25 anos, atualmente estou cursando Engenharia da Computação 10ª fase. Tenho 5 anos de experiência em suporte a informática e estou aprimorando meus estudos para poder migrar para desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que estou estudando atualmente?
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusoliveiraps&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveiraps&repo=mateusoliveiraps.github.io)](https://github.com/mateusoliveiraps/mateusoliveiraps.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveiraps&repo=doctorcare)](https://github.com/mateusoliveiraps/doctorcare)
