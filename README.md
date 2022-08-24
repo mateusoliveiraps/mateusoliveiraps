@@ -15,3 +15,6 @@ Seja bem vindo ao meu GitHub. Meu nome é Mateus tenho 25 anos, atualmente estou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveiraps&repo=mateusoliveiraps.github.io)](https://github.com/mateusoliveiraps/mateusoliveiraps.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveiraps&repo=doctorcare)](https://github.com/mateusoliveiraps/doctorcare)
+
+# Contatos
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mateus-oliveira-pereira-dos-santos-b07953151)
