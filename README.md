@@ -9,8 +9,6 @@ Seja bem vindo ao meu GitHub. Meu nome é Mateus tenho 25 anos, sou formado em E
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusoliveiraps&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 # Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusoliveiraps&repo=mateusoliveiraps.github.io)](https://github.com/mateusoliveiraps/mateusoliveiraps.github.io)
 
