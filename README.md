@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Seja bem vindo ao meu GitHub. Meu nome é Mateus tenho 25 anos, sou formado em Engenharia da Computação. Tenho 5 anos de experiência em suporte a informática e estou aprimorando meus estudos para poder migrar para desenvolvimento.
+Seja bem vindo ao meu GitHub. Meu nome é Mateus tenho 25 anos, sou formado em Engenharia da Computação. Tenho 5 anos de experiência em suporte a informática e estou aprimorando meus estudos para poder migrar para a área de desenvolvimento.
 
 ### O que estou estudando atualmente?
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
