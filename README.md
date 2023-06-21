@@ -2,7 +2,6 @@
 
 - 🔭 I work as a Support Analyst at Hiper (Linx SA / StoneCo)
 - 🌱 Studying programming
-- ⚡ Fun fact: NBA Fan 🏀
 
   <a href="https://github.com/mateusoliveiraps">
   
