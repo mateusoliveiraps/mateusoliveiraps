@@ -1,6 +1,6 @@
 ### Hi there I'm Mateus. 👋
 
-- 🔭 I work as a Support Analyst at Hiper (Linx SA / StoneCo)
+- 🔭 I work as a QA Analyst at Hiper (Linx SA / StoneCo)
 - 🌱 Studying automated tests with Cypress
 
   <a href="https://github.com/mateusoliveiraps">
