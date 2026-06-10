@@ -1,7 +1,7 @@
 ### Hi there I'm Mateus. 👋
 
 - 🔭 I work as a QA Analyst
-- 🌱 Studying automated tests with Cypress
+- 🌱 Studying automated tests with Playwright
 
   <a href="https://github.com/mateusoliveiraps">
   
